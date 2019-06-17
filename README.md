@@ -14,4 +14,5 @@
 - junit:junit:4.12
 
 #### Running
-Befor running create hsql file database with name "testdb" and connect with it. Run with path to data file as an input argument. 
+Befor running create hsql file database with name "testdb" and connect with it as a default user "SA" and empty password. 
+Run with path to data file as an input argument. 
